@@ -1,2 +1,2 @@
 Source File	Size	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
-/input/med-sched.xml	4358	0	0	0	0	0	0	5	621	0	1	0	0	0	0	0	0	0	0	240	151	0	0	0	3	0	0
+/input/med-sched.xml	4358	0	0	0	0	0	0	11	439	0	0	0	0	0	0	0	1	0	0	101	198	0	0	1	2	0	0
